@@ -4,8 +4,18 @@ Incremental lessons learning C.
 
 ## Prerequisites
 
-- A C compiler (`cc --version` or `gcc --version`)
+- A C compiler (Clang or GCC)
 - `make`
+
+### Install
+
+- macOS: `xcode-select --install` (installs Apple Clang + make)
+- Debian / Ubuntu: `sudo apt install build-essential` (installs GCC + make)
+- Fedora: `sudo dnf groupinstall "Development Tools"`
+
+### Verify
+
+    cc --version && make --version
 
 ## Lessons
 
