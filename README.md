@@ -34,6 +34,7 @@ Incremental lessons learning C.
 - [0013-optional](0013-optional/) — hold a present and an absent value; print each with a fallback
 - [0014-higher-order-functions](0014-higher-order-functions/) — pass functions as values: apply inc and double via apply(f, x)
 - [0015-interfaces](0015-interfaces/) — define a Shape interface implemented by two types; call area() polymorphically
+- [0016-generics](0016-generics/) — define a generic first(list) returning the first element; call it on ints and strings
 
 ## How to run
 
