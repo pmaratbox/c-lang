@@ -50,6 +50,7 @@ Incremental lessons learning C.
 - [0029-bitwise-operations](0029-bitwise-operations/) — AND, OR, XOR, and left-shift two integers
 - [0030-variadic-functions](0030-variadic-functions/) — sum a variable number of arguments: sum(1, 2, 3) = 6
 - [0031-type-conversion-and-parsing](0031-type-conversion-and-parsing/) — parse a string to int and float, and convert a number back to a string
+- [0032-math-functions](0032-math-functions/) — sqrt, power, abs, and max on numbers
 
 ## How to run
 
