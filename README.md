@@ -64,6 +64,7 @@ Incremental lessons learning C.
 - [0043-function-composition](0043-function-composition/) — compose inc ∘ twice and apply to 3
 - [0044-generic-constraints](0044-generic-constraints/) — a generic largest(a, b) bounded to ordered types; ints and strings
 - [0045-abstract-classes-and-methods](0045-abstract-classes-and-methods/) — an abstract base with an abstract method, implemented by a subclass
+- [0046-number-bases-and-radix](0046-number-bases-and-radix/) — print 255 in hex, octal, and binary
 
 ## How to run
 
