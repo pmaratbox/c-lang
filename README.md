@@ -66,6 +66,7 @@ Incremental lessons learning C.
 - [0045-abstract-classes-and-methods](0045-abstract-classes-and-methods/) — an abstract base with an abstract method, implemented by a subclass
 - [0046-number-bases-and-radix](0046-number-bases-and-radix/) — print 255 in hex, octal, and binary
 - [0047-immutable-update-copy-with](0047-immutable-update-copy-with/) — copy a record changing one field: (1,2) → (9,2)
+- [0048-maps-iterate-and-transform](0048-maps-iterate-and-transform/) — sum the values of a map → 6
 
 ## How to run
 
