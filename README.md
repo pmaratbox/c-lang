@@ -93,6 +93,7 @@ Incremental lessons learning C.
 - [0072-palindrome-check](0072-palindrome-check/) — is it a palindrome? → level: yes / hello: no
 - [0073-caesar-cipher](0073-caesar-cipher/) — shift "abc" by 1 → bcd
 - [0074-run-length-encoding](0074-run-length-encoding/) — encode "aaabbc" → a3b2c1
+- [0075-anagram-check](0075-anagram-check/) — are they anagrams? → listen/silent: yes
 
 ## How to run
 
