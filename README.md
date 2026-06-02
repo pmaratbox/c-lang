@@ -118,6 +118,7 @@ Incremental lessons learning C.
 - [0097-enums-with-associated-values](0097-enums-with-associated-values/) — tagged shapes → 6 / 16
 - [0098-memoization](0098-memoization/) — memoized fibonacci(10) → 55
 - [0099-method-chaining](0099-method-chaining/) — fluent calculator → 16
+- [0100-static-methods](0100-static-methods/) — class-level square(6) → 36
 
 ## How to run
 
