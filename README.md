@@ -76,6 +76,7 @@ Incremental lessons learning C.
 - [0055-frequency-count](0055-frequency-count/) — count letters in "banana" → a:3 b:1 n:2
 - [0056-linked-list](0056-linked-list/) — build and traverse a singly-linked list → 1 -> 2 -> 3
 - [0057-sieve-of-eratosthenes](0057-sieve-of-eratosthenes/) — primes up to 10 → 2 3 5 7
+- [0058-labeled-break-and-continue](0058-labeled-break-and-continue/) — labeled continue/break over nested loops → 1,1 / 2,1 / stop at 2,2
 
 ## How to run
 
