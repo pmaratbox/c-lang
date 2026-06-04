@@ -345,6 +345,7 @@ Incremental lessons learning C.
 
 ### Dynamic Programming
 - [0285-coin-change-min](21-dynamic-programming/0285-coin-change-min/) — find the fewest coins from {1,2,5} summing to 11, printing `3`
+- [0286-coin-change-count](21-dynamic-programming/0286-coin-change-count/) — count the ways to make 5 from {1,2,5}, printing `4`
 
 ## How to run
 
