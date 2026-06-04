@@ -305,6 +305,7 @@ Incremental lessons learning C.
 
 ### Bit Manipulation
 - [0251-set-clear-toggle-bit](18-bit-manipulation/0251-set-clear-toggle-bit/) — on bit position 1: set it on 0 (->2), clear it on 2 (->0), toggle it on 0 (->2), printing `2 0 2`
+- [0252-reverse-bits-byte](18-bit-manipulation/0252-reverse-bits-byte/) — reverse the 8 bits of the value 1 (00000001) to get 128 (10000000), printing `128`
 
 ## How to run
 
