@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main(void) {
+    int x = 1;
+    for (int i = 0; i < 4; i++) {
+        if (i > 0) printf(" ");
+        printf("%d", x);
+        x = x * 3;
+    }
+    printf("\n");
+    return 0;
+}
