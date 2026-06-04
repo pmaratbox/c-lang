@@ -299,6 +299,7 @@ Incremental lessons learning C.
 - [0245-modular-exponentiation](17-numerics/0245-modular-exponentiation/) — compute 3^13 mod 7 by fast modular exponentiation, printing `3`
 - [0246-perfect-number](17-numerics/0246-perfect-number/) — test whether 6 (yes) and 8 (no) are perfect numbers, printing `yes no`
 - [0247-horner-eval](17-numerics/0247-horner-eval/) — evaluate 2x^2+3x+1 at x=2 using the Horner method, printing `15`
+- [0248-catalan-number](17-numerics/0248-catalan-number/) — print the first five Catalan numbers `1 1 2 5 14`
 
 ## How to run
 
