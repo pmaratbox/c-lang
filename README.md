@@ -288,6 +288,7 @@ Incremental lessons learning C.
 
 ### Numerics & Math
 - [0236-bignum-add](17-numerics/0236-bignum-add/) — add the large numbers 999999999999 and 1 as digit strings, printing `1000000000000`
+- [0237-bignum-multiply](17-numerics/0237-bignum-multiply/) — multiply 123 by 456 with schoolbook long multiplication on digit strings, printing `56088`
 
 ## How to run
 
