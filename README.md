@@ -332,6 +332,7 @@ Incremental lessons learning C.
 ### String Algorithms
 - [0273-kmp-search](20-text-algorithms/0273-kmp-search/) — use Knuth-Morris-Pratt to find all start indices of "ab" in "ababab", printing `0 2 4`
 - [0274-levenshtein](20-text-algorithms/0274-levenshtein/) — compute the edit distance between "kitten" and "sitting", printing `3`
+- [0275-lcs-length](20-text-algorithms/0275-lcs-length/) — compute the LCS length of "ABCBDAB" and "BDCAB", printing `4`
 
 ## How to run
 
