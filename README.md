@@ -489,6 +489,7 @@ Incremental lessons learning C.
 - [0419-catch-error](25-reactive/0419-catch-error/) — implement catchError that, on an error from the source, switches to a fallback stream
 - [0420-retry-on-error](25-reactive/0420-retry-on-error/) — implement retry(n) that resubscribes to the source on error up to n times; the source succeeds on the 3rd subscription
 - [0421-debounce-virtual-time](25-reactive/0421-debounce-virtual-time/) — implement debounce(window) on a virtual-time scheduler: emit a value only after a quiet gap of `window` ticks with no newer value
+- [0422-throttle-virtual-time](25-reactive/0422-throttle-virtual-time/) — implement throttle(window) (leading edge) on a virtual-time scheduler: emit a value, then suppress further values for `window` ticks
 
 ## How to run
 
