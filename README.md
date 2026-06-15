@@ -505,6 +505,7 @@ Incremental lessons learning C.
 - [0445-transaction-commit-rollback](27-database-sqlite/0445-transaction-commit-rollback/) — commit one change and roll back another
 - [0446-indexes](27-database-sqlite/0446-indexes/) — create an index and use it in a lookup
 - [0447-batch-insert](27-database-sqlite/0447-batch-insert/) — insert many rows efficiently in one transaction
+- [0448-upsert](27-database-sqlite/0448-upsert/) — insert or update on primary-key conflict
 
 ## How to run
 
